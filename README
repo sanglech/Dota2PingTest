@@ -1,0 +1,5 @@
+Script for testing ping to Dota 2 servers.
+TODO: Add linux + mac support. 
+      Add dictionary for all servers.
+      Print lost packets in addition to avg ping.
+      
